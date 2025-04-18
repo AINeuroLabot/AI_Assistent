@@ -95,7 +95,17 @@
 
 - Настройки в Савви [Suvvy.ai](https://app.suvvy.ai/?partner_id=67bda08da71940b0827551f7)
 - Готовый бот в Telegram и его ответы
+  - [скриншот 1](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-02-25_11-50.jpg?raw=true)
+  - [скриншот 2](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-02-26_17-15.jpg?raw=true)
+  - [скриншот 3](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-03-01_13-33-05.jpg?raw=true)
+  - [скриншот 4](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-03-02_11-55-10.jpg?raw=true)
+  - [скриншот 5](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-03-02_11-56-09.jpg?raw=true)
+  - [скриншот 6](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-03-02_12-03-22.jpg?raw=true) 
 - Запись события в Google Календаре
+  - [скриншот 1](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-02-25_11-55.jpg?raw=true)
+- Сертификат
+  - [скриншот 1](https://github.com/AINeuroLabot/AI_Assistent/blob/main/photo_2025-02-28.jpg?raw=true)
+
 
 ---
 
